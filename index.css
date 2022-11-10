@@ -1,0 +1,52 @@
+body{
+    background-color: black;
+    line-height: 3.63em
+}
+
+
+
+h1{
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-size: 62px;
+    text-decoration:line-through rgb(182, 48, 216); 
+    letter-spacing: 0.2em;
+    margin-top: 240px;
+    margin-left: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(182, 48, 216);
+}
+
+a:hover{
+    color: coral;
+}
+
+a:active{color: cyan;}
+
+
+ul{
+    font-family: serif;
+    text-transform: capitalize;
+    font-size: 36px;
+    text-align: center;
+    font-style: italic;
+    color: black;
+    margin: 60px 200px;
+
+    border-right: 5px rgb(182, 48, 216);
+    border-left: 5px rgb(182, 48, 216);
+    border-left-style: double;
+    border-right-style: double;
+    
+}
+
+img{
+    padding-left: 85px;
+    height: 200px;
+    width: 800px;
+  
+}
